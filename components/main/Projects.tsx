@@ -14,7 +14,7 @@ const Projects = () => {
         <ProjectCard
           src="/foode.PNG"
           title="Food Website"
-          description="Viraj Foods Order food online for convenient doorstep delivery from local restaurants."
+          description="Sudarshan Foods Order food online for convenient doorstep delivery from local restaurants."
         />
         <ProjectCard
           src="/hospital.png"

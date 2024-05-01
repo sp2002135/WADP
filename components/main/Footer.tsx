@@ -16,7 +16,7 @@ const Footer = () => {
             <div className="font-bold text-[16px]">Community</div>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <a
-                href="https://github.com/Viraj324/"
+                href="https://github.com/sp2002135"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-row items-center"
@@ -36,7 +36,7 @@ const Footer = () => {
                 className="flex flex-row items-center"
               >
                 <RxInstagramLogo />
-                <span className="text-[15px] ml-[6px]">mr_viraj324</span>
+                <span className="text-[15px] ml-[6px]">sp2002135</span>
               </a>
             </p>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
